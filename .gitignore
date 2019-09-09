@@ -1,0 +1,8 @@
+# macOS specific
+.DS_STORE
+
+# tmux-plugin-manager
+plugins/
+
+# tmux-resurrect
+resurrect/
